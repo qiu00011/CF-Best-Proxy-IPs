@@ -1,4 +1,9 @@
-cmcc.vvvv.ee:443#日本JP🔵
-saas.sin.fan:443#日本JP🔵
-211.49.57.175:443#韩国KR🩵
-www.bbb.org:443#美国US🗽
+cmcc.vvvv.ee:443#JP🔵
+saas.sin.fan:443#JP🔵
+hk1.cmcc.cc.cd:443#HK🟢/🔵
+jp1.cmcc.cc.cd:443#JP🟢/🔴
+jp2.cmcc.cc.cd:443#JP🟢/🔴
+211.49.57.175:443#KR🩵
+www.bbb.org:443#US🗽
+
+
