@@ -3,8 +3,6 @@ saas.sin.fan:443#JP🔵
 hk1.cmcc.cc.cd:443#HK🟢/🔵
 jp1.cmcc.cc.cd:443#JP🟢/🔴
 jp2.cmcc.cc.cd:443#JP🟢/🔴
-211.49.57.175:443#KR🩵
-www.bbb.org:443#US🗽
 172.64.53.66:443#Gslege优选 | 【测速 Nodes】78.45MB/s | 172.64.53.66
 162.159.39.211:443#Gslege优选 | 【测速 Nodes】78.40MB/s | 162.159.39.211
 172.64.229.2:443#Gslege优选 | 【测速 Nodes】78.19MB/s | 172.64.229.2
