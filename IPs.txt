@@ -1,17 +1,7 @@
-cmcc.vvvv.ee:443#JP🔵
-saas.sin.fan:443#JP🔵
-hk1.cmcc.cc.cd:443#HK🟢/🔵
-jp1.cmcc.cc.cd:443#JP🟢/🔴
-jp2.cmcc.cc.cd:443#JP🟢/🔴
-172.64.53.66:443#Gslege优选 | 【测速 Nodes】78.45MB/s | 172.64.53.66
-162.159.39.211:443#Gslege优选 | 【测速 Nodes】78.40MB/s | 162.159.39.211
-172.64.229.2:443#Gslege优选 | 【测速 Nodes】78.19MB/s | 172.64.229.2
-172.64.52.18:443#Gslege优选 | 【测速 Nodes】76.09MB/s | 172.64.52.18
-162.159.44.164:443#Gslege优选 | 【测速 Nodes】73.24MB/s | 162.159.44.164
-162.159.38.202:443#Gslege优选 | 【测速 Nodes】72.98MB/s | 162.159.38.202
-108.162.198.93:443#Gslege优选 | 【测速 Nodes】67.51MB/s | 108.162.198.93
-162.159.45.182:443#Gslege优选 | 【测速 Nodes】55.81MB/s | 162.159.45.182
-104.16.67.182:443#Gslege优选 | 【测速 Nodes】32.20MB/s | 104.16.67.182
-104.17.51.59:443#Gslege优选 | 【测速 Nodes】30.98MB/s | 104.17.51.59
-
-
+cmcc.cc.cd:443#💙感谢您订阅顶级路线💙
+jp0.cmcc.cc.cd:443#⚡您的剩余流量+∞⚡
+cmcc.vvvv.ee:443#JP🔵电信
+saas.sin.fan:443#JP🔵电信
+hk1.cmcc.cc.cd:443#HK🟢移动/🔵电信
+jp1.cmcc.cc.cd:443#JP🟢移动/🔴联通
+jp2.cmcc.cc.cd:443#JP🟢移动/🔴联通
