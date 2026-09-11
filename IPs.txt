@@ -5,4 +5,4 @@ jp00.cmcc.cc.cd:443#JP🔵电信|常驻路线
 cf.877774.xyz:443#JP🔵电信|常驻路线
 jp1.cmcc.cc.cd:443#JP🟢移动/🔴联通|常驻
 jp2.cmcc.cc.cd:443#JP🟢移动/🔴联通|常驻
-cmcc.vvvv.ee:443#🩷其他均为24h/次优选路线🫰
+cmcc.vvvv.ee:443#🩷其他为24h更新优选路线🫰
