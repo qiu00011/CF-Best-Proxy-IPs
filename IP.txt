@@ -1,0 +1,11 @@
+auto.cmcc.cc.cd:443#🔄️遇到不可用情况自己更新即可🔄️
+jp00.cmcc.cc.cd:443#日本Tokyo|🇯🇵💎(电信)
+jp0.cmcc.cc.cd:443#日本Tokyo|🇯🇵💎(电信备用)
+jp1.cmcc.cc.cd:443#日本Kyoto|🇯🇵💎(移动路线)
+jp2.cmcc.cc.cd:443#日本Osaka|🇯🇵💎(移动备用)
+jp1.cmcc.cc.cd:443#日本Nagoya|🇯🇵💎(联通路线)
+jp2.cmcc.cc.cd:443#日本Nara|🇯🇵💎(联通备用)
+jp3.cmcc.cc.cd:8443#日本Osaka|🇯🇵💎(联通备用)
+us1.cmcc.cc.cd:443#西雅图Seattle|🇺🇸1💎~$|台湾家宽
+us2.cmcc.cc.cd:443#西雅图Seattle|🇺🇸2💎~$|台湾家宽
+cmcc.cc.cd:443#上次维护时间26-09-26
