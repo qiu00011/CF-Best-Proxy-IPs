@@ -8,4 +8,4 @@ jp2.cmcc.cc.cd:443#日本Nara|🇯🇵💎(联通备用)
 jp3.cmcc.cc.cd:8443#日本Osaka|🇯🇵💎(联通备用)
 us1.cmcc.cc.cd:443#西雅图Seattle|🇺🇸1💎~$|台湾家宽
 us2.cmcc.cc.cd:443#西雅图Seattle|🇺🇸2💎~$|台湾家宽
-cmcc.cc.cd:443#上次维护时间26-09-26
+cmcc.cc.cd:443#📝上次维护时间26-09-26
