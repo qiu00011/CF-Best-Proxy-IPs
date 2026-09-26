@@ -1,4 +1,4 @@
-auto.cmcc.cc.cd:443#🔄️遇到不可用情况自己更新即可🔄️
+auto.cmcc.cc.cd:443#⚠️遇到不可用情况更新即可🔄️
 jp00.cmcc.cc.cd:443#日本Tokyo|🇯🇵💎(电信)
 jp0.cmcc.cc.cd:443#日本Tokyo|🇯🇵💎(电信备用)
 jp1.cmcc.cc.cd:443#日本Kyoto|🇯🇵💎(移动路线)
