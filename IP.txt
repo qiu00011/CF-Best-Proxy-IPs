@@ -8,4 +8,4 @@ jp2.cmcc.cc.cd:443#日本Nara|🇯🇵💎(联通备用)
 jp3.cmcc.cc.cd:8443#日本Osaka|🇯🇵💎(联通备用)
 us1.cmcc.cc.cd:443#洛杉矶L.A.|🇺🇸1💎
 us2.cmcc.cc.cd:443#洛杉矶L.A.|🇺🇸2💎
-cmcc.cc.cd:443#📝上次维护时间26-09-26台湾家宽
+cn.cf.gslb.skk.moe:443#📝上次维护时间26-09-26台湾家宽
